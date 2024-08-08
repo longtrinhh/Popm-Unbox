@@ -45,6 +45,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
     {'name': 'Unknown Road', 'image': 'assets/nyota/n10.webp', 'probability': 0.1},
     {'name': 'Brave Together', 'image': 'assets/nyota/n11.webp', 'probability': 0.1},
     {'name': 'Daze', 'image': 'assets/nyota/n12.webp', 'probability': 0.1},
+    {'name': 'Secret', 'image': 'assets/nyota/n13.webp', 'probability': 0.01},
   ];
 
   String _randomCharacter() {

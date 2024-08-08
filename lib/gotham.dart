@@ -45,6 +45,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
     {'name': 'Poison Ivy', 'image': 'assets/batman/b10.webp', 'probability': 0.1},
     {'name': 'Red Robin', 'image': 'assets/batman/b11.webp', 'probability': 0.1},
     {'name': 'Red Hood', 'image': 'assets/batman/b12.webp', 'probability': 0.1},
+    {'name': 'Secret', 'image': 'assets/batman/b13.webp', 'probability': 0.01},
   ];
 
   String _randomCharacter() {

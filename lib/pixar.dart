@@ -42,6 +42,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
     {'name': 'The Incredibles 2', 'image': 'assets/disney/d7.webp', 'probability': 0.1},
     {'name': 'Car', 'image': 'assets/disney/d8.webp', 'probability': 0.1},
     {'name': 'Turning Red', 'image': 'assets/disney/d9.webp', 'probability': 0.1},
+    {'name': 'Daze', 'image': 'assets/disney/d13.webp', 'probability': 0.01},
   ];
 
   String _randomCharacter() {

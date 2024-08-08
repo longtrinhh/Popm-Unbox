@@ -42,6 +42,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
     {'name': 'Work Together', 'image': 'assets/kungfu/k7.webp', 'probability': 0.1},
     {'name': 'Superb State', 'image': 'assets/kungfu/k8.webp', 'probability': 0.1},
     {'name': 'Meditation', 'image': 'assets/kungfu/k9.webp', 'probability': 0.1},
+    {'name': 'Secret', 'image': 'assets/kungfu/k13.webp', 'probability': 0.01},
   ];
 
   String _randomCharacter() {
