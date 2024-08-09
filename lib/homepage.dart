@@ -6,6 +6,8 @@ import 'package:popm/gotham.dart';
 import 'package:popm/kungfu.dart';
 import 'package:popm/pixar.dart';
 import 'package:popm/collection.dart';
+import 'package:popm/skull.dart';
+import 'package:popm/cry.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
@@ -21,6 +23,8 @@ class _MyHomePageState extends State<MyHomePage> {
     {'name': 'DC Gotham City', 'image': 'assets/batman.webp'},
     {'name': 'Kung Fu Panda', 'image': 'assets/kungfu.webp'},
     {'name': '100th Anniversary Pixar', 'image': 'assets/disney.webp'},
+    {'name': 'SKULLPANDA The Sound', 'image': 'assets/skull.webp'},
+    {'name': 'CRYBABY x Powerpuff Girls', 'image': 'assets/cry.webp'},
   ];
 
   @override
@@ -114,6 +118,18 @@ class _MyHomePageState extends State<MyHomePage> {
                           Navigator.push(
                             context,
                             MaterialPageRoute(builder: (context) => PixarPage(unboxedCharacters: unboxedCharacters, updateCharacters: _updateUnboxedCharacters)),
+                          );
+                          break;
+                        case 'SKULLPANDA The Sound':
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => SkullPage(unboxedCharacters: unboxedCharacters, updateCharacters: _updateUnboxedCharacters)),
+                          );
+                          break;
+                        case 'CRYBABY x Powerpuff Girls':
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => CryPage(unboxedCharacters: unboxedCharacters, updateCharacters: _updateUnboxedCharacters)),
                           );
                           break;
                       }

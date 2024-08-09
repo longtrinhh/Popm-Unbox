@@ -118,6 +118,38 @@ flutter:
     - assets/disney/d13.webp
     - assets/disney/dbox.jpg
     - assets/disney/dchoices.jpg
+    - assets/skull/s1.webp
+    - assets/skull/s2.webp
+    - assets/skull/s3.webp
+    - assets/skull/s4.webp
+    - assets/skull/s5.webp
+    - assets/skull/s6.webp
+    - assets/skull/s7.webp
+    - assets/skull/s8.webp
+    - assets/skull/s9.webp
+    - assets/skull/s10.webp
+    - assets/skull/s11.webp
+    - assets/skull/s12.webp
+    - assets/skull/s13.webp
+    - assets/skull/sbox.webp
+    - assets/skull/schoices.jpg
+    - assets/cry/c1.webp
+    - assets/cry/c2.webp
+    - assets/cry/c3.webp
+    - assets/cry/c4.webp
+    - assets/cry/c5.webp
+    - assets/cry/c6.webp
+    - assets/cry/c7.webp
+    - assets/cry/c8.webp
+    - assets/cry/c9.webp
+    - assets/cry/c10.webp
+    - assets/cry/c11.webp
+    - assets/cry/c12.webp
+    - assets/cry/c13.webp
+    - assets/cry/cbox.jpg
+    - assets/cry/cchoices.jpg
+    - assets/cry.webp
+    - assets/skull.webp
 
 
   # To add assets to your application, add an assets section, like this:
