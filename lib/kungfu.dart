@@ -166,7 +166,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
           ),
         ),
         InteractiveViewer(
-          child: Image.asset('assets/kungfu/kchoices.jpg'),
+          child: Image.asset('assets/kungfu/kchoices.jpg', height: 150),
         ),
       ],
     );

@@ -76,6 +76,7 @@ flutter:
     - assets/nyota/n10.webp
     - assets/nyota/n11.webp
     - assets/nyota/n12.webp
+    - assets/nyota/n13.webp
     - assets/nyota/nbox.jpg
     - assets/nyota/nchoices.png
     - assets/batman/b1.webp
@@ -90,6 +91,7 @@ flutter:
     - assets/batman/b10.webp
     - assets/batman/b11.webp
     - assets/batman/b12.webp
+    - assets/batman/b13.webp
     - assets/batman/bbox.webp
     - assets/batman/bchoices.png
     - assets/kungfu/k1.webp
@@ -101,6 +103,7 @@ flutter:
     - assets/kungfu/k7.webp
     - assets/kungfu/k8.webp
     - assets/kungfu/k9.webp
+    - assets/kungfu/k13.webp
     - assets/kungfu/kbox.webp
     - assets/kungfu/kchoices.jpg
     - assets/disney/d1.webp
@@ -112,6 +115,7 @@ flutter:
     - assets/disney/d7.webp
     - assets/disney/d8.webp
     - assets/disney/d9.webp
+    - assets/disney/d13.webp
     - assets/disney/dbox.jpg
     - assets/disney/dchoices.jpg
 

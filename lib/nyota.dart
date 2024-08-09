@@ -169,7 +169,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
           ),
         ),
         InteractiveViewer(
-          child: Image.asset('assets/nyota/nchoices.png'),
+          child: Image.asset('assets/nyota/nchoices.png', height: 150),
         ),
       ],
     );

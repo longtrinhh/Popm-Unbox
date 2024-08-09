@@ -166,7 +166,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
           ),
         ),
         InteractiveViewer(
-          child: Image.asset('assets/disney/dchoices.jpg'),
+          child: Image.asset('assets/disney/dchoices.jpg', height: 150),
         ),
       ],
     );

@@ -169,7 +169,7 @@ class _CharacterSelectionState extends State<CharacterSelection> {
           ),
         ),
         InteractiveViewer(
-          child: Image.asset('assets/batman/bchoices.png'),
+          child: Image.asset('assets/batman/bchoices.png', height: 150),
         ),
       ],
     );
